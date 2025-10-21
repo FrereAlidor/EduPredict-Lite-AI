@@ -7,9 +7,6 @@
 
 > Lightweight machine learning framework for predicting student performance in secondary schools with limited resources.
 
-![Framework Architecture](<img width="1190" height="659" alt="ML-Traffic (1)" src="https://github.com/user-attachments/assets/20c90e7f-5363-4ddc-9cb8-a215c548bc1c" />
-)
-
 ---
 
 ## 🎯 Overview
