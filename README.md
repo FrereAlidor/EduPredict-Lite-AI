@@ -14,9 +14,6 @@
 
 Our methodology follows a five-phase pipeline designed for resource-constrained contexts:
 
-![Framework Architecture](<img width="854" height="290" alt="archiIEEE_Lyon" src="https://github.com/user-attachments/assets/b3d6bfd2-b1b9-47ba-a965-a651cd8b1ad7" />
-)
-
 The framework comprises:
 - **Phase 1:** Data Preparation with encoding and scaling
 - **Phase 2:** Statistical Validation (Normality, Chi-Square, Correlation, T-Tests)
