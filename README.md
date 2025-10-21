@@ -10,6 +10,20 @@
 ---
 
 ## 🎯 Overview
+## 🏗️ Framework Architecture
+
+Our methodology follows a five-phase pipeline designed for resource-constrained contexts:
+
+![Framework Architecture](<img width="854" height="290" alt="archiIEEE_Lyon" src="https://github.com/user-attachments/assets/b3d6bfd2-b1b9-47ba-a965-a651cd8b1ad7" />
+)
+
+The framework comprises:
+- **Phase 1:** Data Preparation with encoding and scaling
+- **Phase 2:** Statistical Validation (Normality, Chi-Square, Correlation, T-Tests)
+- **Phase 3:** ML Training with 5 algorithms and cross-validation
+- **Phase 4:** Performance Evaluation
+- **Phase 5:** Risk-Based Early Warning System Output
+
 
 An offline-capable, CPU-only AI system designed for resource-constrained secondary schools to identify at-risk students early and enable timely interventions.
 
