@@ -7,7 +7,8 @@
 
 > Lightweight machine learning framework for predicting student performance in secondary schools with limited resources.
 
-![Framework Architecture](archiIEEE_Lyon.png)
+![Framework Architecture](<img width="1190" height="659" alt="ML-Traffic (1)" src="https://github.com/user-attachments/assets/20c90e7f-5363-4ddc-9cb8-a215c548bc1c" />
+)
 
 ---
 
@@ -156,18 +157,6 @@ scipy>=1.7.0
 
 ---
 
-## 📝 Citation
-```bibtex
-@inproceedings{yourname2025student,
-  title={AI-Powered Early Warning Systems for Resource-Constrained Schools},
-  author={Your Name},
-  booktitle={IEEE Conference},
-  year={2025}
-}
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! Please open issues or submit pull requests.
@@ -177,8 +166,8 @@ Contributions welcome! Please open issues or submit pull requests.
 ## 📧 Contact
 
 **[Your Name]**  
-Email: your.email@institution.edu  
-Issues: [GitHub Issues](https://github.com/yourusername/student-performance-prediction/issues)
+Email: alidor.mbayandjambe@unikin.ac.cd 
+
 
 ---
 
